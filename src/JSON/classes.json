@@ -1,0 +1,80 @@
+{
+  "classes": [
+    {
+      "school": "Skola",
+      "className": "8B",
+      "teacherName": "Teacher",
+      "studentNames": [
+        {
+          "name": "Elsa",
+          "login": {
+            "email": "namn@skola.se",
+            "password": "lösenord"
+          },
+          "testResults": [
+            { "date": "24-04-13", "category": "Statistik", "result": 1 },
+            { "date": "24-04-14", "category": "Algebra", "result": 5 },
+            { "date": "24-04-15", "category": "Statistik", "result": 10 },
+            { "date": "24-04-16", "category": "Algebra", "result": 9 },
+            { "date": "24-04-17", "category": "Statistik", "result": 11 },
+            { "date": "24-04-18", "category": "Algebra", "result": 8 },
+            { "date": "24-04-19", "category": "Statistik", "result": 9 },
+            { "date": "24-04-20", "category": "Algebra", "result": 10 },
+            { "date": "24-04-21", "category": "Statistik", "result": 11 },
+            { "date": "24-04-22", "category": "Algebra", "result": 8 }
+          ]
+        },
+        {
+          "name": "Kalle",
+          "testResults": [
+            { "date": "24-04-13", "category": "Statistik", "result": 10 },
+            { "date": "24-04-14", "category": "Algebra", "result": 4 },
+            { "date": "24-04-15", "category": "Statistik", "result": 11 },
+            { "date": "24-04-16", "category": "Algebra", "result": 5 },
+            { "date": "24-04-17", "category": "Statistik", "result": 12 },
+            { "date": "24-04-18", "category": "Algebra", "result": 7 },
+            { "date": "24-04-19", "category": "Statistik", "result": 6 },
+            { "date": "24-04-20", "category": "Algebra", "result": 12 },
+            { "date": "24-04-21", "category": "Statistik", "result": 11 },
+            { "date": "24-04-22", "category": "Algebra", "result": 8 }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "7B",
+      "studentNames": [
+        {
+          "name": "Anna",
+          "testResults": [
+            { "date": "24-04-03", "category": "Statistik", "result": 11 },
+            { "date": "24-04-04", "category": "Algebra", "result": 11 },
+            { "date": "24-04-05", "category": "Statistik", "result": 12 },
+            { "date": "24-04-06", "category": "Algebra", "result": 9 },
+            { "date": "24-04-07", "category": "Statistik", "result": 9 },
+            { "date": "24-04-08", "category": "Algebra", "result": 8 },
+            { "date": "24-04-09", "category": "Statistik", "result": 10 },
+            { "date": "24-04-10", "category": "Algebra", "result": 9 },
+            { "date": "24-04-11", "category": "Statistik", "result": 11 },
+            { "date": "24-04-12", "category": "Algebra", "result": 8 }
+          ]
+        },
+        {
+          "name": "Anders",
+          "testResults": [
+            { "date": "24-04-03", "category": "Statistik", "result": 11 },
+            { "date": "24-04-04", "category": "Algebra", "result": 5 },
+            { "date": "24-04-05", "category": "Statistik", "result": 6 },
+            { "date": "24-04-06", "category": "Algebra", "result": 10 },
+            { "date": "24-04-07", "category": "Statistik", "result": 12 },
+            { "date": "24-04-08", "category": "Algebra", "result": 7 },
+            { "date": "24-04-09", "category": "Statistik", "result": 9 },
+            { "date": "24-04-10", "category": "Algebra", "result": 10 },
+            { "date": "24-04-11", "category": "Statistik", "result": 12 },
+            { "date": "24-04-12", "category": "Algebra", "result": 7 }
+          ]
+        }
+      ]
+    }
+  ]
+}

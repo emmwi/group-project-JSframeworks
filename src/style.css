@@ -1,0 +1,32 @@
+/*importerar fonten expetus och lexend*/
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:ital,wght@0,400..700;1,400..700&family=Lexend:wght@100..900&display=swap');
+
+:root {
+  --mörkbrun: #150b04;
+  --orange: #dca572;
+}
+
+* {
+  color: var(--mörkbrun);
+}
+
+h1,
+h2 {
+  font-family: 'Expletus Sans', sans-serif;
+}
+
+p {
+  font-family: 'Lexend', sans-serif;
+  color: var(--mörkbrun);
+}
+
+a {
+  font-family: 'Lexend', sans-serif;
+  color: var(--mörkbrun);
+  text-decoration: none;
+}
+
+.button {
+  font-family: 'Lexend', sans-serif;
+  color: var(--mörkbrun);
+}

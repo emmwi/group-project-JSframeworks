@@ -1,0 +1,112 @@
+{
+  "algebra": [
+    {
+      "questionNumber": 1,
+      "question": "Vad är resultatet av 3x + 7 när x = 4?",
+      "answer": 19
+    },
+    {
+      "questionNumber": 2,
+      "question": "Lös ekvationen: 2y - 5 = 11",
+      "answer": 8
+    },
+    {
+      "questionNumber": 3,
+      "question": "Vilket är det korrekta värdet för a i ekvationen 2a + 6 = 18?",
+      "answer": 6
+    },
+    {
+      "questionNumber": 4,
+      "question": "Vad är kvadratroten av 81?",
+      "answer": 9
+    },
+    {
+      "questionNumber": 5,
+      "question": "Förenkla uttrycket: 4x + 2x - 5x",
+      "answer": 1
+    },
+    {
+      "questionNumber": 6,
+      "question": "Lös ekvationen: 3(x - 2) = 15",
+      "answer": 7
+    },
+    {
+      "questionNumber": 7,
+      "question": "Vad är produkten av 5 och (2 + 3)?",
+      "answer": 25
+    },
+    {
+      "questionNumber": 8,
+      "question": "Om n + 8 = 15, vad är värdet av n?",
+      "answer": 7
+    },
+    {
+      "questionNumber": 9,
+      "question": "Vilket är det korrekta värdet för b i ekvationen 2b - 3 = 13?",
+      "answer": 8
+    },
+    {
+      "questionNumber": 10,
+      "question": "Lös ekvationen: 4a + 7 = 23",
+      "answer": 4
+    },
+    {
+      "questionNumber": 11,
+      "question": "Vad är skillnaden mellan 15 och 8?",
+      "answer": 7
+    },
+    {
+      "questionNumber": 12,
+      "question": "Om 2c = 14, vad är värdet av c?",
+      "answer": 7
+    }
+  ],
+  "statistic": [
+    {
+      "question": "Vad är medianvärdet av följande dataset: 12, 15, 8, 20, 17?",
+      "answer": 15
+    },
+    {
+      "question": "Beräkna genomsnittet (medelvärdet) av dessa tal: 25, 30, 35, 40, 45",
+      "answer": 35
+    },
+    {
+      "question": "Vad är det lägsta värdet i datasetet: 18, 22, 15, 27, 14?",
+      "answer": 14
+    },
+
+    {
+      "question": "Vad är det högsta värdet i datasetet: 32, 28, 35, 40, 38?",
+      "answer": 40
+    },
+    {
+      "question": "Beräkna kvartilavståndet för dessa tal: 10, 15, 20, 25, 30",
+      "answer": 15
+    },
+    {
+      "question": "Beräkna interkvartilavståndet för dessa tal: 12, 18, 22, 26, 30",
+      "answer": 14
+    },
+
+    {
+      "question": "Vad är det vanligaste värdet i datasetet: 5, 8, 10, 8, 5, 12, 8?",
+      "answer": 8
+    },
+    {
+      "question": "Om 40 utgör 16% av ett tal, vad är detta tal?",
+      "answer": 250
+    },
+    {
+      "question": "En vara kostar 120 kr. Om priset ökar med 15%, vad blir det nya priset?",
+      "answer": 138
+    },
+    {
+      "question": "Om 80 är 25% av ett tal, vad är detta tal?",
+      "answer": 320
+    },
+    {
+      "question": "Vad är 20% av 150?",
+      "answer": 30
+    }
+  ]
+}
