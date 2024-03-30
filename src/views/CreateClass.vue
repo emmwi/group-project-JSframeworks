@@ -34,7 +34,7 @@
         </b-form-group>
         <b-form-group
           id="student-names-group"
-          label="Elevernas namn:"
+          label="Elevens namn:"
           label-for="name-of-students"
         >
           <b-form-input
